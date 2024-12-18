@@ -1,4 +1,5 @@
-Banking Project
+**Banking Project**
+
 This repository contains test automation scripts for the Banking Project, designed to validate key functionalities of the application using Robot Framework and SeleniumLibrary.
 
 Features Tested
